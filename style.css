@@ -1,7 +1,12 @@
 body {
+  
+}
+img{
+  width:80% ;
+}
+.principal{
   background: #CCCCCC
 }
-
 p {
   text-align: center
 }
